@@ -9,3 +9,6 @@ dependencies:
       - jupyter==1.0.0
       - jupyterlab==3.1.8
       - requests==2.25.1
+      - tiledb==0.10.2
+      - affine==2.3.0
+      - matplotlib==3.4.3
